@@ -30,9 +30,7 @@ R Ahmad, J Cantwell, C Borrelli, P Lim, D D’Souza, MN Gaze, S Moinuddin, J Gai
 
 ## Project updates
 
-The 2021 model is available for non-commercial research: [here](https://xip.uclb.com/product/rt-pal-radiotherapy-paediatric-atlas)
-
-2024 models coming soon.
+The 2021 and selected 2024 models are available for non-commercial research: [here](https://xip.uclb.com/product/rt-pal-radiotherapy-paediatric-atlas)
 
  
 ## Contact
