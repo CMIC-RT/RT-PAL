@@ -1,6 +1,6 @@
 ## Welcome to the Radiotherapy Paediatric Atlas (RT-PAL) Project Page
 
-Project has moved here: https://paedrtima.github.io/RT-PAL/
+Project has moved [here](https://paedrtima.github.io/RT-PAL/)
 
 RT-PAL are 3D images that make  a virtual model of an average paediatric patient developed for non-commercial research use.
 
