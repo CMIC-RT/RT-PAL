@@ -1,5 +1,7 @@
 ## Welcome to the Radiotherapy Paediatric Atlas (RT-PAL) Project Page
 
+Project has moved here: https://paedrtima.github.io/RT-PAL/
+
 RT-PAL are 3D images that make  a virtual model of an average paediatric patient developed for non-commercial research use.
 
 <img src="atlas.png" width="350" class="inline"/>
@@ -40,8 +42,6 @@ If you would like to request updates of the availability of data and pipelines, 
 Dr Catarina Veiga
 
 Associate Professor, [Paediatric Radiotherapy & Imaging (PRIma) Group](https://www.ucl.ac.uk/medical-physics-biomedical-engineering/research/research-groups/paediatric-radiotherapy-and-imaging-group-prima)
-
-Centre for Medical Image Computing
 
 Department of Medical Physics & Biomedical Engineering
 
